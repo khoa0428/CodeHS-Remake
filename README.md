@@ -1,4 +1,4 @@
-#Note that this remake "Introduction with Programming," which as you know, introduce Karl the dog. That is what I remake here."
+#CodeHS-Remake (Note that this remake "Introduction with Programming," which as you know, introduce Karl the dog. That is what I remake here.")
 A remake of codeHS, with all the function. Also some additional feature. 100% with python
 
 
